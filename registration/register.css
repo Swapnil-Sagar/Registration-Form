@@ -51,7 +51,7 @@ form{
 .btn{
   padding: 10px;
   font-size: 15px;
-  color: white;
+  color: wheat;
   background: #ff8080;
   border: none;
   border-radius: 5px;
@@ -60,4 +60,6 @@ form{
 a{
   text-decoration: none;
   color: blue;
+  text-color: #f1f1f1;
+  text-align: center;
 }
